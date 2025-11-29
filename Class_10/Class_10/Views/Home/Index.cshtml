@@ -1,0 +1,22 @@
+﻿@model Class_10.Models.Mailer
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using (Html.BeginForm("Home" , "Index" , FormMethod.Post))
+{
+    @Html.LabelFor(m => m.Name)
+    @Html.TextBoxFor(m => m.Name, null, new { @class = "form-control" })
+
+    @Html.LabelFor(m => m.Email)
+    @Html.TextBoxFor(m => m.Email, null, new { @class = "form-control" })
+
+    @Html.LabelFor(m => m.Subject)
+    @Html.TextBoxFor(m => m.Subject, null, new { @class = "form-control" })
+    <br />
+    <br />
+    <br />
+    <button class="btn btn-outline-dark">Save</button>
+}
+

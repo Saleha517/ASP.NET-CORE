@@ -1,0 +1,16 @@
+﻿﻿@model IEnumerable<Class_06.Models.Student>
+
+<h1>Students</h1>
+
+@foreach (var student in Model)
+{
+    <ul>
+        <li>@student.Id</li>
+        <li>@student.Name</li>
+        <li>@student.age</li>
+    </ul>
+}
+
+
+
+

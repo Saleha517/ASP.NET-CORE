@@ -1,0 +1,2 @@
+C:\Users\Teacher\Desktop\ASP.NET\Class_06\Class_06\obj\Debug\Class_06.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\ASP.NET\Class_06\Class_06\obj\Debug\Class_06.csproj.CoreCompileInputs.cache
