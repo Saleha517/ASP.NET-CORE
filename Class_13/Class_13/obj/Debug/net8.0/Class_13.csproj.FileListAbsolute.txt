@@ -1,0 +1,10 @@
+C:\Users\Teacher\Desktop\ASP.NET\Class_13\Class_13\obj\Debug\net8.0\Class_13.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\ASP.NET\Class_13\Class_13\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Teacher\Desktop\ASP.NET\Class_13\Class_13\obj\Debug\net8.0\Class_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teacher\Desktop\ASP.NET\Class_13\Class_13\obj\Debug\net8.0\Class_13.AssemblyInfoInputs.cache
+C:\Users\Teacher\Desktop\ASP.NET\Class_13\Class_13\obj\Debug\net8.0\Class_13.AssemblyInfo.cs
+C:\Users\Teacher\Desktop\ASP.NET\Class_13\Class_13\obj\Debug\net8.0\Class_13.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\ASP.NET\Class_13\Class_13\obj\Debug\net8.0\Class_13.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Teacher\Desktop\ASP.NET\Class_13\Class_13\obj\Debug\net8.0\Class_13.RazorAssemblyInfo.cache
+C:\Users\Teacher\Desktop\ASP.NET\Class_13\Class_13\obj\Debug\net8.0\Class_13.RazorAssemblyInfo.cs
+C:\Users\Teacher\Desktop\ASP.NET\Class_13\Class_13\obj\Debug\net8.0\Class_13.sourcelink.json

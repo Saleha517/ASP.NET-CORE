@@ -1,0 +1,12 @@
+﻿@model Class_13.Models.user;
+<h1>Login</h1>
+
+@using (Html.BeginForm("Create", "Student", FormMethod.Post))
+{
+    @Html.LabelFor(m => m.username)
+    @Html.TextBoxFor(m => m.username, null, new { @class = "form-control" })
+    @Html.LabelFor(m => m.password)
+    @Html.TextBoxFor(m => m.password, null, new { @class = "form-control" })    
+    
+    <button class="btn btn-dark">Save</button>
+}
